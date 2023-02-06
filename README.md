@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mahesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/mahesh-venneti-a6a654180)](https://in.linkedin.com/in/mahesh-venneti-a6a654180)
-[![Website Badge](https://img.shields.io/badge/WebSite-Mahesh-green)](https://www.dev-maheshvenneti.pantheonsite.io)
+[![Website Badge](https://img.shields.io/badge/WebSite-Mahesh-green)](https://dev-maheshvenneti.pantheonsite.io)
 
 I'm
 Full Stack Solution Architect
