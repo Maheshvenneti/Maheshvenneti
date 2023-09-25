@@ -4,9 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mahesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/mahesh-venneti-a6a654180)](https://www.linkedin.com/in/venneti-mahesh-86aaa1243/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Mahesh-green)](https://dev-maheshvenneti.pantheonsite.io)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+As a skilled developer with experience in ReactJS, NextJS, NodeJS, HTML, CSS, JavaScript, and Bootstrap, I strive to deliver high-quality solutions to complex problems. Passionate about creating intuitive user experiences and staying up-to-date with the latest technologies, I am always eager to learn and expand my skill set. Looking for new challenges and opportunities to make a positive impact through innovative development.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
