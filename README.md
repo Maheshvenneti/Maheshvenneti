@@ -7,14 +7,7 @@
 As a skilled developer with experience in ReactJS, NextJS, NodeJS, HTML, CSS, JavaScript, and Bootstrap, I strive to deliver high-quality solutions to complex problems. Passionate about creating intuitive user experiences and staying up-to-date with the latest technologies, I am always eager to learn and expand my skill set. Looking for new challenges and opportunities to make a positive impact through innovative development.
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
-  </a>
-</div>
 
 Languages and Tools: 
 
