@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mahesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/mahesh-venneti-a6a654180)](https://www.linkedin.com/in/venneti-mahesh-86aaa1243/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Mahesh-green)](https://dev-maheshvenneti.pantheonsite.io)
 
-As a skilled developer with experience in ReactJS, NextJS, NodeJS, HTML, CSS, JavaScript, and Bootstrap, I strive to deliver high-quality solutions to complex problems. Passionate about creating intuitive user experiences and staying up-to-date with the latest technologies, I am always eager to learn and expand my skill set. Looking for new challenges and opportunities to make a positive impact through innovative development.
+As a skilled developer with experience in ReactJS, NextJS, NodeJS, HTML, CSS, JavaScript, Bootstrap, and Material UI, I strive to deliver high-quality solutions to complex problems. Passionate about creating intuitive user experiences and staying up-to-date with the latest technologies, I am always eager to learn and expand my skill set. Looking for new challenges and opportunities to make a positive impact through innovative development.
 
 
 
